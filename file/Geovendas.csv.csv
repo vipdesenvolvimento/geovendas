@@ -1,0 +1,6 @@
+<br />
+<b>Warning</b>:  fopen(file/SGQoutput.csv): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\SGQ\cvs_down.php</b> on line <b>235</b><br />
+<br />
+<b>Warning</b>:  fwrite() expects parameter 1 to be resource, bool given in <b>C:\xampp\htdocs\SGQ\cvs_down.php</b> on line <b>235</b><br />
+Codigo, Nome, Tecnologia, Regiao, Bairro, Notificacao, FA, Reclamacao,, Departamento, Prejuizo, Observacao, Protocolos, Gerenet, Status, Retirada de Equipamento64216,Teste de Formulario,FTTH,Zona Leste,Parque São Rafael,2019-04-23,48426,sem acesso,suporte,0,,4,conectado,concluido,0
+555,aaa,FTTH,Zona Leste,Parque São Rafael,2019-04-20,123,sem acesso,vendas,100,,2,pausa,emAndamento,1
